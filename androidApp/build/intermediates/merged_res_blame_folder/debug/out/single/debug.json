@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/estherkummetz/AndroidStudioProjects/forRest/androidApp/build/intermediates/res/merged/debug/font_gloria_hallelujah.ttf.flat",
+        "source": "/Users/estherkummetz/AndroidStudioProjects/forRest/androidApp/src/main/res/font/gloria_hallelujah.ttf"
+    },
+    {
+        "merged": "/Users/estherkummetz/AndroidStudioProjects/forRest/androidApp/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/estherkummetz/AndroidStudioProjects/forRest/androidApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/estherkummetz/AndroidStudioProjects/forRest/androidApp/build/intermediates/res/merged/debug/font_cutive_mono.xml.flat",
+        "source": "/Users/estherkummetz/AndroidStudioProjects/forRest/androidApp/src/main/res/font/cutive_mono.xml"
+    }
+]

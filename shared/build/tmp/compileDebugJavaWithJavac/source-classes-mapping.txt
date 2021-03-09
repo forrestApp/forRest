@@ -1,0 +1,2 @@
+com/example/forrest/shared/BuildConfig.java
+ com.example.forrest.shared.BuildConfig
